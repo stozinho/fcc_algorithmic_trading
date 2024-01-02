@@ -1,0 +1,25 @@
+freeCodeCamp - Algorithmic Trading using Python
+
+https://github.com/nickmccullum/algorithmic-trading-python/tree/master
+
+https://www.youtube.com/watch?v=xfzGZB4HhEE
+
+
+pip install numpy
+pip install pandas
+pip install notebook
+pip install requests - this may well be installed by venv anyway?
+
+numpy - numerical calculations. numpy module written in c/cpp, so very fast. 
+
+pandas - panel data. works well with tabular data. data frame - tabular structure that holds data. 
+
+
+# run the notebook
+python -m notebook
+
+https://iexcloud.io/docs/api/
+
+https://api.iex.cloud/v1/data/core/quote/aapl?token={IEX_CLOUD_API_TOKEN}
+
+https://stackoverflow.com/questions/75956209/error-dataframe-object-has-no-attribute-append
